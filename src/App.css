@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+a.logout {
+  text-decoration: none;
+  font-size: 18px;
+  border: none;
+  padding: 5px 15px;
+  color: #3f51b5;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.makeStyles-link-3 {
+  margin-left: 0px !important;
+}
